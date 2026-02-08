@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KT Reviews | Amazon Affiliate</title>
+  <meta name="description" content="Honest product reviews and recommendations." />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f7f7f7; }
+    header { background: #232f3e; color: white; padding: 20px; text-align: center; }
+    nav a { color: #ff9900; margin: 0 10px; text-decoration: none; font-weight: bold; }
+    .container { max-width: 1000px; margin: auto; padding: 20px; }
+    .card { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .btn { background: #ff9900; color: #000; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    footer { background: #232f3e; color: white; text-align: center; padding: 15px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KT Reviews</h1>
+    <p>Honest Reviews. Smart Buying.</p>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Reviews</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>Top Wireless Earbuds in 2026</h2>
+      <p>We tested the best wireless earbuds for sound quality, battery life, and comfort.</p>
+      <a class="btn" href="YOUR_AMAZON_AFFILIATE_LINK" target="_blank">Check Price on Amazon</a>
+    </div>
+
+    <div class="card">
+      <h2>Best Budget Laptops for Students</h2>
+      <p>Perfect laptops for coding, online classes, and daily use.</p>
+      <a class="btn" href="YOUR_AMAZON_AFFILIATE_LINK" target="_blank">View on Amazon</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2026 KT Reviews | As an Amazon Associate, I earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
